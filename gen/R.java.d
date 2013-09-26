@@ -1,0 +1,26 @@
+/Users/mihailpospelov/android_projects/MyFirstApp/gen/com/example/myfirstapp/R.java \
+ : /Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-hdpi/actionbar_background.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-hdpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-hdpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-hdpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-ldpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-ldpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-ldpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-mdpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-mdpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/drawable-mdpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/layout/main.xml \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/menu/main_activity_actions.xml \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/values/strings.xml \
+/Users/mihailpospelov/android_projects/MyFirstApp/res/values/themes.xml \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-hdpi/actionbar_background.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-hdpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-hdpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-ldpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-ldpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-ldpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-mdpi/ic_action_search.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-mdpi/ic_action_settings.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/mihailpospelov/android_projects/MyFirstApp/bin/AndroidManifest.xml \
