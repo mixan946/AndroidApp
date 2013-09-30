@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое Первое Приложение</string>
+    <string name="edit_message">Введите сообщение</string>
+    <string name="button_send">Послать</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_search">Поиск</string>
+    <string name="title_activity_main">Главная Активность</string>
+    <string name="title_activity_display_message">Мое сообщение</string>
+    <string name="player_tab">Фрагмент А</string>
+    <string name="stations_tab">Фрагмент Б</string>
+    <string name="hello">Привет</string>
+</resources>

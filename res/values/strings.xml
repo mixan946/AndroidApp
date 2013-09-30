@@ -7,4 +7,7 @@
     <string name="action_search">Search</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">My Message</string>
+    <string name="player_tab">Fragment B</string>
+    <string name="stations_tab">Fragment A</string>
+    <string name="hello">Hello</string>
 </resources>

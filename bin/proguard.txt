@@ -4,6 +4,8 @@
 # view AndroidManifest.xml #generated:10
 -keep class com.example.myfirstapp.MainActivity { <init>(...); }
 
-# onClick res/layout/main.xml #generated:12
+# onClick res/layout/afragment.xml #generated:12
+# onClick res/layout/bfragment.xml #generated:12
+# onClick res/layout/main.xml #generated:21
 -keepclassmembers class * { *** sendMessage(...); }
 

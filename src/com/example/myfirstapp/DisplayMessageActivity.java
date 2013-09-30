@@ -1,11 +1,9 @@
 package com.example.myfirstapp;
-
 import android.app.Activity;
 import android.view.View;
 import android.widget.TextView;
 import android.os.Bundle;
 import android.content.Intent;
-
 
 public class DisplayMessageActivity extends Activity {
 

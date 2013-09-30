@@ -13,20 +13,31 @@ public final class R {
     public static final class color {
         public static final int actionbar_background=0x7f060001;
         public static final int actionbar_text=0x7f060000;
+        public static final int text_color=0x7f060002;
     }
     public static final class drawable {
         public static final int actionbar_background=0x7f020000;
-        public static final int ic_action_search=0x7f020001;
-        public static final int ic_action_settings=0x7f020002;
-        public static final int ic_launcher=0x7f020003;
+        public static final int actionbar_tab_indicator=0x7f020001;
+        public static final int ic_action_search=0x7f020002;
+        public static final int ic_action_settings=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int tab_selected=0x7f020005;
+        public static final int tab_selected_focused=0x7f020006;
+        public static final int tab_selected_pressed=0x7f020007;
+        public static final int tab_unselected=0x7f020008;
+        public static final int tab_unselected_focused=0x7f020009;
+        public static final int tab_unselected_pressed=0x7f02000a;
     }
     public static final class id {
-        public static final int action_search=0x7f080001;
-        public static final int action_settings=0x7f080002;
+        public static final int action_search=0x7f080002;
+        public static final int action_settings=0x7f080003;
         public static final int edit_message=0x7f080000;
+        public static final int text_message=0x7f080001;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int afragment=0x7f030000;
+        public static final int bfragment=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class menu {
         public static final int main_activity_actions=0x7f070000;
@@ -37,6 +48,9 @@ public final class R {
         public static final int app_name=0x7f040000;
         public static final int button_send=0x7f040002;
         public static final int edit_message=0x7f040001;
+        public static final int hello=0x7f040009;
+        public static final int player_tab=0x7f040007;
+        public static final int stations_tab=0x7f040008;
         public static final int title_activity_display_message=0x7f040006;
         public static final int title_activity_main=0x7f040005;
     }
@@ -50,6 +64,9 @@ public final class R {
         /**  ActionBar tabs text styles 
          */
         public static final int MyActionBarTabText=0x7f050003;
+        /**  ActionBar tabs styles 
+         */
+        public static final int MyActionBarTabs=0x7f050004;
         /**  ActionBar title text 
          */
         public static final int MyActionBarTitleText=0x7f050002;
